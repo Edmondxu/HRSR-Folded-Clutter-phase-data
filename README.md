@@ -49,7 +49,7 @@ All phase values are provided in radians.
 
 If you use the phase sequences or materials in this repository, please cite the corresponding paper:
 
-> [Paper title]  
-> [Authors]  
-> [Journal/Conference]  
-> [DOI]
+> [Hybrid Regularized Sparse Reconstruction for Airborne Early-Warning Radar Using Inter-Pulse Phase-Coded Waveforms]  
+> [Xiaojian Xu]  
+> [IEEE ACCESS]  
+
